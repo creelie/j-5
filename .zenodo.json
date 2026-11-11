@@ -1,0 +1,19 @@
+{
+  "title": "The Wasserstein Distance Between Two Boltzmann Solutions Can Increase",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "description": "For Maxwell molecules, Tanaka proved that the quadratic Wasserstein distance between two solutions of the spatially homogeneous Boltzmann equation never increases. Villani asked whether this remains true for other collision kernels. This paper shows that it does not: for every hard potential with angular cutoff, hard spheres included, there are smooth initial data for which the distance strictly increases. The proof is analytic and rests on an explicit Kantorovich dual certificate. LaTeX source, figure and PDF.",
+  "creators": [
+    {
+      "name": "Bhattacharjee, Deep",
+      "orcid": "0000-0003-0466-750X"
+    }
+  ],
+  "keywords": [
+    "Boltzmann equation",
+    "Wasserstein distance",
+    "hard potentials"
+  ],
+  "license": "MIT",
+  "version": "1.0.0"
+}
