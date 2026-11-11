@@ -6,3 +6,5 @@ For Maxwell molecules, Tanaka proved that the quadratic Wasserstein distance bet
 
 - `paper/`: LaTeX source (amsart, pdflatex), figure and PDF
 - `code/`: script that draws the figure; not used in any proof
+
+DOI: [10.5281/zenodo.24128011](https://doi.org/10.5281/zenodo.24128011) (all versions)
